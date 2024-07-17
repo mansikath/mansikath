@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mansikath
 - 👀 I am interested in utilizing Python for various applications in bioinformatics.
-- 🌱 I'm currently learning Python programming and the basics of Linux.
+- 🌱 I'm currently learning Python, R and the basics of Linux.
 
 
 
